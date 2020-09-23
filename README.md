@@ -7,12 +7,12 @@
 | 1    | 2020-09-03 | 나는 문득 글쓰기가 하고 싶어서 | [블로그](https://blog.naver.com/jmingyu/222074469809), [Github](./200903_나는_문득_글쓰기가_하고_싶어서.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/200903_나는_문득_글쓰기가_하고_싶어서.md) |
 | 2    | 2020-09-10 | 부부 브랜드                    | [블로그](https://blog.naver.com/jmingyu/222085611179), [Github](./200910_부부_브랜드.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/200910_부부_브랜드.md) |
 | 3    | 2020-09-17 | 나의 플레이리스트              | [블로그](https://blog.naver.com/jmingyu/222092953846), [Github](./200917_나의_플레이리스트.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/200917_나의_플레이리스트.md) |
-| 4    | 2020-09-24 | 결혼과 가족간 호칭             | [작업 중](./200924_결혼과_가족간_호칭.md)                    | [보기](https://github.com/claudejin/thursdaywriting/commits/master/200924_결혼과_가족간_호칭.md) |
+| 4    | 2020-09-24 | 가을 모기                      | [작업 중](./200924_가을_모기.md)                             | [보기](https://github.com/claudejin/thursdaywriting/commits/master/200924_가을_모기.md) |
 
 
 
 ### 아이디어 작업 중
 
 * [인생 노잼 시기](./990001_인생_노잼_시기.md)
-
 * [좋아하는 것과 "아닌 것"](./990002_좋아하는_것과_아닌_것.md)
+* [결혼과 가족간 호칭](./200924_결혼과_가족간_호칭.md)
