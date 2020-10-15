@@ -10,6 +10,7 @@
 | 4    | 2020-09-24 | 가을 모기                      | [블로그](https://blog.naver.com/jmingyu/222098833257), [Github](./articles/200924_가을_모기.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/200924_가을_모기.md) |
 | 5    | 2020-10-01 | 추석 연휴에는 보건교사 안은영  | [블로그](https://blog.naver.com/jmingyu/222105973618), [Github](./articles/201001_추석_연휴에는_보건교사_안은영.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201001_추석_연휴에는_보건교사_안은영.md) |
 | 6    | 2020-10-08 | 폰으로 그림 그리기             | [블로그](https://blog.naver.com/jmingyu/222112622619), [Github](./articles/201008_폰으로_그림_그리기.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201008_폰으로_그림_그리기.md) |
+| 7    | 2020-10-15 | 애플의 프레젠테이션            | [블로그](https://blog.naver.com/jmingyu/222116797083), [Github](./articles/201015_애플의_프레젠테이션.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201015_애플의_프레젠테이션.md) |
 
 
 
