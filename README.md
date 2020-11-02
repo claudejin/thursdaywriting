@@ -12,7 +12,7 @@
 | 6    | 2020-10-08 | 폰으로 그림 그리기             | [블로그](https://blog.naver.com/jmingyu/222112622619), [Github](./articles/201008_폰으로_그림_그리기.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201008_폰으로_그림_그리기.md) |
 | 7    | 2020-10-15 | 애플의 프레젠테이션            | [블로그](https://blog.naver.com/jmingyu/222116797083), [Github](./articles/201015_애플의_프레젠테이션.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201015_애플의_프레젠테이션.md) |
 | 8    | 2020-10-25 | 소백산 비로봉을 오르다         | [블로그](https://blog.naver.com/jmingyu/222127400661), [Github](./articles/201025_소백산_비로봉을_오르다.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201025_소백산_비로봉을_오르다.md) |
-| 9    | 2020-11-02 | 뉴 페르소나                    | [블로그](https://blog.naver.com/jmingyu/), [Github](./articles/201102_뉴_페르소나.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201102_뉴_페르소나.md) |
+| 9    | 2020-11-02 | 뉴 페르소나                    | [블로그](https://blog.naver.com/jmingyu/222133620585), [Github](./articles/201102_뉴_페르소나.md) | [보기](https://github.com/claudejin/thursdaywriting/commits/master/articles/201102_뉴_페르소나.md) |
 
 
 
